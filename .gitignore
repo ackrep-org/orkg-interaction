@@ -1,0 +1,7 @@
+# python related files
+.idea/*
+*.pyc
+*/__pycache__/*
+*/.directory
+.directory
+.ipynb_checkpoints/*

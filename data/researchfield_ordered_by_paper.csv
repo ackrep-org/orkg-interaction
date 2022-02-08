@@ -1,0 +1,228 @@
+field,fieldLabel,paperCount
+http://orkg.org/orkg/resource/R11,Science,2891
+http://orkg.org/orkg/resource/R50,Motor Control,966
+http://orkg.org/orkg/resource/R278,Information Science,306
+http://orkg.org/orkg/resource/R133,Artificial Intelligence,301
+http://orkg.org/orkg/resource/R69,Toxicology,295
+http://orkg.org/orkg/resource/R132,Computer Sciences,238
+http://orkg.org/orkg/resource/R374,Urban Studies and Planning,203
+http://orkg.org/orkg/resource/R67,Medicinal Chemistry and Pharmaceutics,161
+http://orkg.org/orkg/resource/R194,Engineering,108
+http://orkg.org/orkg/resource/R185,Plasma and Beam Physics,100
+http://orkg.org/orkg/resource/R135,Databases/Information Systems,96
+http://orkg.org/orkg/resource/R57,Virology,95
+http://orkg.org/orkg/resource/R172,Oceanography,89
+http://orkg.org/orkg/resource/R122,Chemistry,89
+http://orkg.org/orkg/resource/R104,Bioinformatics,83
+http://orkg.org/orkg/resource/R136,Graphics,69
+http://orkg.org/orkg/resource/R142,Earth Sciences,67
+http://orkg.org/orkg/resource/R140,Software Engineering,64
+http://orkg.org/orkg/resource/R279,Nanoscience and Nanotechnology,63
+http://orkg.org/orkg/resource/R145261,Natural Language Processing,56
+http://orkg.org/orkg/resource/R141823,Semantic Web,53
+http://orkg.org/orkg/resource/R230,Computer Engineering,53
+http://orkg.org/orkg/resource/R145,Environmental Sciences,52
+http://orkg.org/orkg/resource/R175,"Atomic, Molecular and Optical Physics",51
+http://orkg.org/orkg/resource/R138056,Planetary Sciences,50
+http://orkg.org/orkg/resource/R126,Materials Chemistry,48
+http://orkg.org/orkg/resource/R136127,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",45
+http://orkg.org/orkg/resource/R267,Energy Systems,45
+http://orkg.org/orkg/resource/R129,Organic Chemistry,41
+http://orkg.org/orkg/resource/R77,Animal Sciences,37
+http://orkg.org/orkg/resource/R123,Analytical Chemistry,33
+http://orkg.org/orkg/resource/R370,"Work, Economy and Organizations",30
+http://orkg.org/orkg/resource/R12,Life Sciences,28
+http://orkg.org/orkg/resource/R277,Computational Engineering,27
+http://orkg.org/orkg/resource/R114008,Applied Physics,27
+http://orkg.org/orkg/resource/R112125,Machine Learning,27
+http://orkg.org/orkg/resource/R146,Geology,26
+http://orkg.org/orkg/resource/R322,Computational Linguistics,25
+http://orkg.org/orkg/resource/R259,Semiconductor and Optical Materials,23
+http://orkg.org/orkg/resource/R169,Climate,23
+http://orkg.org/orkg/resource/R134,Computer and Systems Architecture,21
+http://orkg.org/orkg/resource/R281,Social and Behavioral Sciences,20
+http://orkg.org/orkg/resource/R356,"Family, Life Course, and Society",18
+http://orkg.org/orkg/resource/R130,Physical Chemistry,18
+http://orkg.org/orkg/resource/R272,"Operations Research, Systems Engineering and Industrial Engineering",17
+http://orkg.org/orkg/resource/R27,Botany,17
+http://orkg.org/orkg/resource/R128,Inorganic Chemistry,16
+http://orkg.org/orkg/resource/R141,Theory/Algorithms,16
+http://orkg.org/orkg/resource/R354,Sociology,15
+http://orkg.org/orkg/resource/R342,Urban Studies,15
+http://orkg.org/orkg/resource/R137681,"Information Systems, Process and Knowledge Management",15
+http://orkg.org/orkg/resource/R343,Psychology,15
+http://orkg.org/orkg/resource/R234,Digital Communications and Networking,14
+http://orkg.org/orkg/resource/R369,"Theory, Knowledge and Science",14
+http://orkg.org/orkg/resource/R99,Botany,13
+http://orkg.org/orkg/resource/R417,Cultural History,13
+http://orkg.org/orkg/resource/R231,Computer and Systems Architecture,13
+http://orkg.org/orkg/resource/R225,Civil Engineering,11
+http://orkg.org/orkg/resource/R302,Economics,11
+http://orkg.org/orkg/resource/R40,Immunology and Infectious Disease,11
+http://orkg.org/orkg/resource/R14,Biochemistry,11
+http://orkg.org/orkg/resource/R111778,Communication Neuroscience,11
+http://orkg.org/orkg/resource/R233,Data Storage Systems,10
+http://orkg.org/orkg/resource/R375,Arts and Humanities,10
+http://orkg.org/orkg/resource/R58,Neuroscience and Neurobiology,10
+http://orkg.org/orkg/resource/R137,Numerical Analysis/Scientific Computing,10
+http://orkg.org/orkg/resource/R16,Biophysics,9
+http://orkg.org/orkg/resource/R274,Industrial Engineering,9
+http://orkg.org/orkg/resource/R56,Pathogenic Microbiology,9
+http://orkg.org/orkg/resource/R243,Electronic Devices and Semiconductor Manufacturing,9
+http://orkg.org/orkg/resource/R351,Industrial and Organizational Psychology,8
+http://orkg.org/orkg/resource/R361,Place and Environment,8
+http://orkg.org/orkg/resource/R42,Immunology of Infectious Disease,8
+http://orkg.org/orkg/resource/R37,Genetics,8
+http://orkg.org/orkg/resource/R245,Power and Energy,8
+http://orkg.org/orkg/resource/R317,Geographic Information Sciences,8
+http://orkg.org/orkg/resource/R236,Robotics,8
+http://orkg.org/orkg/resource/R33,Epidemiology,7
+http://orkg.org/orkg/resource/R83,Food Processing,7
+http://orkg.org/orkg/resource/R112,Numerical Analysis and Computation,7
+http://orkg.org/orkg/resource/R136112,General and Domain-Specific Teaching and Learning,7
+http://orkg.org/orkg/resource/R32,Environmental Health,7
+http://orkg.org/orkg/resource/R31,Public Health,7
+http://orkg.org/orkg/resource/R105,Biotechnology,7
+http://orkg.org/orkg/resource/R246,Signal Processing,7
+http://orkg.org/orkg/resource/R205,Biomedical Engineering and Bioengineering,7
+http://orkg.org/orkg/resource/R153,Soil Science,6
+http://orkg.org/orkg/resource/R78413,Learner-Interface Interaction,6
+http://orkg.org/orkg/resource/R109,Control Theory,5
+http://orkg.org/orkg/resource/R78,Aquaculture and Fisheries,5
+http://orkg.org/orkg/resource/R17,Molecular Biology,5
+http://orkg.org/orkg/resource/R125,Environmental Chemistry,5
+http://orkg.org/orkg/resource/R346,Cognition and Perception,5
+http://orkg.org/orkg/resource/R20,Anatomy,5
+http://orkg.org/orkg/resource/R21,Cell Biology,5
+http://orkg.org/orkg/resource/R222,Thermodynamics,5
+http://orkg.org/orkg/resource/R136187,Social Sciences,4
+http://orkg.org/orkg/resource/R262,"Acoustics, Dynamics, and Controls",4
+http://orkg.org/orkg/resource/R89,Forest Management,4
+http://orkg.org/orkg/resource/R454,Biblical Studies,4
+http://orkg.org/orkg/resource/R148,Geophysics and Seismology,4
+http://orkg.org/orkg/resource/R247,Systems and Communications,4
+http://orkg.org/orkg/resource/R254,Materials Science and Engineering,4
+http://orkg.org/orkg/resource/R353,Social Psychology,4
+http://orkg.org/orkg/resource/R359,Medicine and Health,4
+http://orkg.org/orkg/resource/R408,Slavic Languages and Societies,4
+http://orkg.org/orkg/resource/R106,Systems Biology,4
+http://orkg.org/orkg/resource/R53,Bacteriology,4
+http://orkg.org/orkg/resource/R339,Public Administration,4
+http://orkg.org/orkg/resource/R137635,"Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas",4
+http://orkg.org/orkg/resource/R303,Behavioral Economics,4
+http://orkg.org/orkg/resource/R373,Science and Technology Studies,4
+http://orkg.org/orkg/resource/R55,Microbial Physiology,3
+http://orkg.org/orkg/resource/R30,Terrestrial and Aquatic Ecology,3
+http://orkg.org/orkg/resource/R258,Polymer and Organic Materials,3
+http://orkg.org/orkg/resource/R367,Social Psychology and Interaction,3
+http://orkg.org/orkg/resource/R241,Electrical and Electronics,3
+http://orkg.org/orkg/resource/R307,Growth and Development,3
+http://orkg.org/orkg/resource/R102,Plant Pathology,3
+http://orkg.org/orkg/resource/R239,Computer Engineering,3
+http://orkg.org/orkg/resource/R137654,Mechanical Process Engineering,3
+http://orkg.org/orkg/resource/R313,Geography,3
+http://orkg.org/orkg/resource/R61,Computational Neuroscience,3
+http://orkg.org/orkg/resource/R334,Comparative Politics,3
+http://orkg.org/orkg/resource/R59,Behavioral Neurobiology,3
+http://orkg.org/orkg/resource/R184,Optics,3
+http://orkg.org/orkg/resource/R96,Nutritional Epidemiology,3
+http://orkg.org/orkg/resource/R282,Agricultural and Resource Economics,3
+http://orkg.org/orkg/resource/R266,Electro-Mechanical Systems,3
+http://orkg.org/orkg/resource/R54,Environmental Microbiology and Microbial Ecology,3
+http://orkg.org/orkg/resource/R36,Computational Biology,3
+http://orkg.org/orkg/resource/R85,Food Chemistry,3
+http://orkg.org/orkg/resource/R24,Ecology and Evolutionary Biology,2
+http://orkg.org/orkg/resource/R310,Labor Economics,2
+http://orkg.org/orkg/resource/R52,Microbiology,2
+http://orkg.org/orkg/resource/R68,Pharmacology,2
+http://orkg.org/orkg/resource/R71,Cellular and Molecular Physiology,2
+http://orkg.org/orkg/resource/R401,German Literature,2
+http://orkg.org/orkg/resource/R227,Environmental Engineering,2
+http://orkg.org/orkg/resource/R276,Systems Engineering,2
+http://orkg.org/orkg/resource/R207,Bioelectrical and neuroengineering,2
+http://orkg.org/orkg/resource/R63,Molecular and Cellular Neuroscience,2
+http://orkg.org/orkg/resource/R93,Human and Clinical Nutrition,2
+http://orkg.org/orkg/resource/R159,Analysis,2
+http://orkg.org/orkg/resource/R112120,Digital Libraries,2
+http://orkg.org/orkg/resource/R308,Industrial Organization,2
+http://orkg.org/orkg/resource/R114012,Computational Physics,2
+http://orkg.org/orkg/resource/R293,Health Communication,2
+http://orkg.org/orkg/resource/R168,Atmospheric Sciences,2
+http://orkg.org/orkg/resource/R66,Environmental Health,2
+http://orkg.org/orkg/resource/R138,Programming Languages/Compilers,2
+http://orkg.org/orkg/resource/R386,Classical Literature and Philology,2
+http://orkg.org/orkg/resource/R352,Personality and Social Contexts,2
+http://orkg.org/orkg/resource/R101,Plant Biology,2
+http://orkg.org/orkg/resource/R147,Geochemistry,2
+http://orkg.org/orkg/resource/R38,Genomics,2
+http://orkg.org/orkg/resource/R112123,Human Computer Interfaces,2
+http://orkg.org/orkg/resource/R13,"Biochemistry, Biophysics, and Structural Biology",2
+http://orkg.org/orkg/resource/R320,Applied Linguistics,1
+http://orkg.org/orkg/resource/R445,Ethics and Political Philosophy,1
+http://orkg.org/orkg/resource/R216,Catalysis and Reaction Engineering,1
+http://orkg.org/orkg/resource/R261,Mechanical Engineering,1
+http://orkg.org/orkg/resource/R412,Asian,1
+http://orkg.org/orkg/resource/R208,Bioimaging and biomedical optics,1
+http://orkg.org/orkg/resource/R456,Ethics,1
+http://orkg.org/orkg/resource/R98,Agronomy and Crop Sciences,1
+http://orkg.org/orkg/resource/R137713,Organic Molecular Chemistry - Synthesis and Characterisation,1
+http://orkg.org/orkg/resource/R362,Politics and Social Change,1
+http://orkg.org/orkg/resource/R108,Applied Mathematics,1
+http://orkg.org/orkg/resource/R229,Structural Engineering,1
+http://orkg.org/orkg/resource/R269,Manufacturing,1
+http://orkg.org/orkg/resource/R112127,Multiagent Systems,1
+http://orkg.org/orkg/resource/R271,Tribology,1
+http://orkg.org/orkg/resource/R62,Developmental Neuroscience,1
+http://orkg.org/orkg/resource/R136162,Clinical Infectiology and Tropical Medicine,1
+http://orkg.org/orkg/resource/R47,Biology/Integrated Biology/ Integrated Biomedical Sciences,1
+http://orkg.org/orkg/resource/R379,American Popular Culture,1
+http://orkg.org/orkg/resource/R212,"Molecular, cellular, and tissue engineering",1
+http://orkg.org/orkg/resource/R382,Ancient History (Greek and Roman through Late Antiquity),1
+http://orkg.org/orkg/resource/R84,Food Microbiology,1
+http://orkg.org/orkg/resource/R136138,Medical Informatics and Medical Bioinformatics,1
+http://orkg.org/orkg/resource/R46,Parasitology,1
+http://orkg.org/orkg/resource/R453,Religion,1
+http://orkg.org/orkg/resource/R314,Physical and Environmental Geography,1
+http://orkg.org/orkg/resource/R170,Fresh Water Studies,1
+http://orkg.org/orkg/resource/R49,Exercise Physiology,1
+http://orkg.org/orkg/resource/R43,Immunopathology,1
+http://orkg.org/orkg/resource/R22,Developmental Biology,1
+http://orkg.org/orkg/resource/R70,Physiology,1
+http://orkg.org/orkg/resource/R136088,European Literature,1
+http://orkg.org/orkg/resource/R199,Aerodynamics and Fluid Mechanics,1
+http://orkg.org/orkg/resource/R223,Transport Phenomena,1
+http://orkg.org/orkg/resource/R350,Health Psychology,1
+http://orkg.org/orkg/resource/R389,English Language and Literature,1
+http://orkg.org/orkg/resource/R263,Applied Mechanics,1
+http://orkg.org/orkg/resource/R81,Zoology,1
+http://orkg.org/orkg/resource/R75,Systems and Integrative Physiology,1
+http://orkg.org/orkg/resource/R368,Sociology of Culture,1
+http://orkg.org/orkg/resource/R136135,"Public Health, Health Services Research, Social Medicine",1
+http://orkg.org/orkg/resource/R76,Animal Sciences,1
+http://orkg.org/orkg/resource/R451,Philosophy of Mind,1
+http://orkg.org/orkg/resource/R178,"Cosmology, Relativity, and Gravity",1
+http://orkg.org/orkg/resource/R160,Discrete Mathematics and Combinatorics,1
+http://orkg.org/orkg/resource/R290,Communication Technology and New Media,1
+http://orkg.org/orkg/resource/R198,Systems Engineering and Multidisciplinary Design Optimization,1
+http://orkg.org/orkg/resource/R265,Computer-Aided Engineering and Design,1
+http://orkg.org/orkg/resource/R250,Engineering Mechanics,1
+http://orkg.org/orkg/resource/R465,Theatre and Performance Studies,1
+http://orkg.org/orkg/resource/R295,Interpersonal/Small Group Communication,1
+http://orkg.org/orkg/resource/R226,Construction Engineering/management,1
+http://orkg.org/orkg/resource/R377,American Film Studies,1
+http://orkg.org/orkg/resource/R388,Comparative Literature,1
+http://orkg.org/orkg/resource/R136177,"Plant Cultivation, Plant Nutrition, Agricultural Technology",1
+http://orkg.org/orkg/resource/R137685,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",1
+http://orkg.org/orkg/resource/R176,Biological and Chemical Physics,1
+http://orkg.org/orkg/resource/R209,Biomaterials,1
+http://orkg.org/orkg/resource/R270,Ocean Engineering,1
+http://orkg.org/orkg/resource/R358,Inequality and Stratification,1
+http://orkg.org/orkg/resource/R112118,Computer Vision and Pattern Recognition,1
+http://orkg.org/orkg/resource/R119,"Stars, Interstellar Medium and the Galaxy",1
+http://orkg.org/orkg/resource/R118,The Sun and the Solar System,1
+http://orkg.org/orkg/resource/R157,Algebra,1
+http://orkg.org/orkg/resource/R167,Oceanography and Atmospheric Sciences and Meteorology,1
+http://orkg.org/orkg/resource/R136113,Education Systems and Educational Institutions,1
+http://orkg.org/orkg/resource/R18,Structural Biology,1
+http://orkg.org/orkg/resource/R224,Civil and Environmental Engineering,1
+http://orkg.org/orkg/resource/R452,Philosophy of Science,1

@@ -1,0 +1,412 @@
+This file contains queries and urls which arose during the preparation of a paper. They will be sorted and processed of adequate presentation in the next days.
+
+
+
+
+
+
+
+
+https://www.orkg.org/orkg/search/pre-industrial%20control%20simulation -> 7 results, same name
+
+
+
+https://www.orkg.org/orkg/property/P41664
+
+Ontology IRI
+
+
+Description: No values
+
+This property isn't used in any statement yet!
+
+
+redundancy and ambiguity
+
+
+https://www.orkg.org/orkg/property/P7037 "Description" ≠ https://www.orkg.org/orkg/property/description (abweichende Benennung (nicht: P<zahl>))
+https://www.orkg.org/orkg/property/P7224 (14 statements using this property)
+https://www.orkg.org/orkg/property/P7214 (14 statements using this property)
+https://www.orkg.org/orkg/property/P14 "Description" ≠ https://www.orkg.org/orkg/property/description (abweichende Benennung (nicht: P<zahl>))
+
+
+
+
+https://www.orkg.org/orkg/property/P35214 Has Example
+
+
+
+--
+
+https://www.orkg.org/orkg/field/R109/Control_Theory
+
+
+
+https://www.orkg.org/orkg/property/P30 -> has research field
+
+
+https://www.orkg.org/orkg/class/PaperDeleted -> 844 Instances but no description
+https://www.orkg.org/orkg/class/ResearchField
+
+
+https://www.orkg.org/orkg/ressource/R109 (11 items)
+https://www.orkg.org/orkg/ressource/R240
+
+
+
+
+
+Area of study
+
+https://www.orkg.org/orkg/sparql/#%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0A%0A%0A%0Aselect%20distinct%20%3FConcept%20where%20%7B%5B%5D%20orkgp%3AP37364%20%3FConcept%7D%20LIMIT%20100%0A%0A
+
+
+
+
+https://www.orkg.org/orkg/sparql/#%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0A%0A%0A%0A%23%20select%20distinct%20%3Fsubject%20%3Fpredicate%20%3Fobject%20where%20%7B%3Fsubject%20%3Fpredicate%20%3Fobject%7D%20LIMIT%20100%0A%0Aselect%20distinct%20%3Fsubject%20where%20%7B%3Fsubject%20rdf%3Atype%20orkgc%3AResearchField%7D%20LIMIT%201000%0A%0A
+
+-> 708 instances (rdf:type) of orkgc:ResearchField
+
+
+
+
+
+select distinct ?paper ?title where
+  {?paper orkgp:P30 orkgr:R109;
+          rdfs:label ?title.
+
+
+  }
+
+https://www.orkg.org/orkg/sparql/#%0APREFIX%20orkgr%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fresource%2F%3E%0APREFIX%20orkgc%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fclass%2F%3E%0APREFIX%20orkgp%3A%20%3Chttp%3A%2F%2Forkg.org%2Forkg%2Fpredicate%2F%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0A%0A%0A%0A%23%20select%20distinct%20%3Fsubject%20%3Fpredicate%20%3Fobject%20where%20%7B%3Fsubject%20%3Fpredicate%20%3Fobject%7D%20LIMIT%20100%0A%0Aselect%20distinct%20%3Fpaper%20%3Ftitle%20where%0A%20%20%7B%3Fpaper%20orkgp%3AP30%20orkgr%3AR109%3B%0A%20%20%20%20%20%20%20%20%20%20rdfs%3Alabel%20%3Ftitle.%0A%20%20%7D%0A%0ALIMIT%201000
+
+
+
+
+--
+
+
+select ?paper ?title ?propLabel ?objectLabel where
+  {?paper orkgp:P30 orkgr:R109;
+          rdfs:label ?title;
+          orkgp:P31 ?contribution.
+   ?contribution ?prop ?object.
+   ?prop rdfs:label ?propLabel.
+
+}
+
+
+
+--
+
+Research problem
+
+select ?paper ?title ?rsproblem ?rsproblemLabel  where
+  {
+    ?paper orkgp:P30 orkgr:R109;
+          rdfs:label ?title;
+          orkgp:P31 ?contribution.
+   ?contribution orkgp:P32 ?rsproblem.
+   ?rsproblem rdfs:label ?rsproblemLabel.
+
+}
+
+-> das wäre gut persistent auf contributions anzuwenden, die älter als ein bestimmtes datum sind
+
+
+
+--
+
+
+
+select distinct ?paper ?title where
+  {?paper orkgp:P30 orkgr:R109;
+          rdfs:label ?title;
+          rdf:type ?type.
+  MINUS { ?paper rdf:type orkgc:PaperDeleted . }
+  }
+
+
+#-> orkgr:R138527
+#orkgr:R138532
+#orkgr:R146945
+#orkgr:R146974
+#orkgr:R146978
+
+--
+
+
+alle Knoten zählen
+
+SELECT  (COUNT(distinct ?vertex) AS ?count)
+WHERE
+{
+  {
+    ?vertex ?p []
+  }
+  UNION
+  {
+    [] ?p ?vertex
+    FILTER(!IsLiteral(?vertex))
+  }
+}
+
+alle nodes zählen
+
+SELECT  (COUNT(distinct ?vertex) AS ?count)
+WHERE
+{
+  {
+    ?vertex ?p []
+  }
+  UNION
+  {
+    [] ?p ?vertex
+    FILTER(!IsLiteral(?vertex))
+  }
+}
+
+
+# alle properties zählen
+SELECT  (COUNT(distinct ?p) AS ?count)
+WHERE
+{
+  {
+    ?vertex ?p []
+  }
+  UNION
+  {
+    [] ?p ?vertex
+    FILTER(!IsLiteral(?vertex))
+  }
+}
+
+
+
+--
+
+# paper und contributions zählen
+
+SELECT ?prop ?propLabel (COUNT(DISTINCT ?paper) AS ?paperCount) (COUNT(DISTINCT ?contribution) AS ?contributionCount)
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P31 ?contribution.
+ # ?contribution ?prop ?object.
+#  ?prop rdfs:label ?propLabel.
+
+}
+GROUP BY ?prop ?propLabel
+ORDER BY DESC(?paperCount)
+LIMIT 100
+
+--
+
+
+alle research fields geordnet nach paper count
+
+SELECT ?field ?fieldLabel (COUNT(?paper) AS ?paperCount)
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P30 ?field.
+  ?paper rdfs:label ?title.
+  ?field rdfs:label ?fieldLabel.
+
+}
+GROUP BY ?field ?fieldLabel
+ORDER BY DESC(?paperCount)
+LIMIT 1000
+
+
+--
+
+alle research problems geordnet nach paper count
+
+SELECT ?researchproblem ?researchproblemLabel (COUNT(?paper) AS ?paperCount)
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P31 ?contribution.
+  ?contribution orkgp:P32 ?researchproblem.
+  ?researchproblem rdfs:label ?researchproblemLabel.
+
+}
+GROUP BY ?researchproblem ?researchproblemLabel
+ORDER BY DESC(?paperCount)
+LIMIT 10000
+
+--
+
+
+alle properties geordnet nach paper count
+
+SELECT ?prop ?propLabel (COUNT(?paper) AS ?paperCount)
+WHERE {
+  ?paper a orkgc:paper. # ... is a paper
+  ?paper orkgp:P31 ?contribution.
+ # ?contribution ?prop ?object.
+#  ?prop rdfs:label ?propLabel.
+
+}
+GROUP BY ?prop ?propLabel
+ORDER BY DESC(?paperCount)
+LIMIT 100
+
+
+
+SELECT ?prop ?propLabel (COUNT(DISTINCT ?paper) AS ?paperCount)
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P31 ?contribution.
+  ?contribution ?prop ?object.
+  ?prop rdfs:label ?propLabel.
+
+}
+GROUP BY ?prop ?propLabel
+ORDER BY DESC(?paperCount)
+LIMIT 10000
+
+
+--
+
+
+many duplicated papers
+
+
+SELECT distinct ?o1 ?o2 ?o3 ?o4 ?o1Label
+WHERE {
+  ?o1 a orkgc:Paper.
+  ?o2 a orkgc:Paper.
+  ?o3 a orkgc:Paper.
+  ?o4 a orkgc:Paper.
+  #?object orkgp:P31 ?contribution.
+  # ?subject ?prop ?object.
+  ?o1 rdfs:label ?o1Label.
+  ?o2 rdfs:label ?o1Label.
+  ?o3 rdfs:label ?o1Label.
+  ?o4 rdfs:label ?o1Label.
+
+  FILTER (strlen(?o1Label) > 1).
+  FILTER (?o1 != ?o2).
+  FILTER (?o1 != ?o3).
+  FILTER (?o1 != ?o4).
+  FILTER (?o2 != ?o3).
+  FILTER (?o2 != ?o4).
+  FILTER (?o3 != ?o4).
+
+}
+
+ORDER BY ?objectLabel
+LIMIT 10000
+
+--
+
+
+
+specific duplicated paper:
+
+SELECT ?paper ?paperLabel ?author ?authorLabel
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+ # ?paper orkgp:P30 orkgr:R11.
+  ?paper rdfs:label ?paperLabel. #"The early phase of the COVID-19 outbreak in Lombardy, Italy".
+  # VALUES ?paper {orkgr:R108411}.
+
+  FILTER (STRSTARTS(?paperLabel, "Governing nonprofit platform ecosystems"))
+}
+
+
+--
+
+unused properties
+
+
+
+select distinct ?prop ?propType ?propLabel where
+  {
+    # Values ?prop {orkgp:P12}.
+    ?prop a orkgc:Predicate.
+          ?prop rdfs:label ?propLabel.
+
+    Minus {
+      ?o1 ?prop ?o2.
+      }
+
+}
+
+LIMIT 10000
+
+--
+
+
+https://www.orkg.org/orkg/property/P27 (has author) -> description -> "Vinicius Woloszyn" (Literal Value)
+
+There are 35630 statements using this property
+
+
+--
+
+https://www.orkg.org/orkg/property/description -> same as -> "Shows the value in percent (%)."
+
+
+
+
+
+https://www.orkg.org/orkg/search/assay%20title?types=predicate
+
+
+-> 45 treffer mit Typo
+
+
+
+
+--
+
+
+sinnloses paper (vermutlich nicht das einzige): keine Autoren, leere contribution, label science
+
+https://www.orkg.org/orkg/resource/R108411
+
+
+paper mit research field science und ohne autoren
+
+
+[!paper_without_author]
+
+SELECT ?paper ?paperLabel ?author ?authorLabel
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P30 orkgr:R11.
+  ?paper rdfs:label ?paperLabel.
+  # VALUES ?paper {orkgr:R108411}.
+
+  MINUS {?paper orkgp:P27 ?author.}
+}
+LIMIT 1000
+
+
+
+--
+
+all research problems
+
+
+SELECT ?researchproblem ?researchproblemLabel
+WHERE {
+  ?paper a orkgc:Paper. # ... is a paper
+  ?paper orkgp:P31 ?contribution.
+  ?contribution orkgp:P32 ?researchproblem.
+  ?researchproblem rdfs:label ?researchproblemLabel.
+
+}
+
+LIMIT 10000
+
+
+--------
+
+redundant Comparisons:
+
+"Application of Regularization in sensitivity analysis"
+
+
+https://www.orkg.org/orkg/comparison/R138536
+https://www.orkg.org/orkg/comparison/R138535
